@@ -17,15 +17,29 @@ This file is part of SAO Randomiser.
     You should have received a copy of the GNU General Public License
     along with SAO Randomiser.  If not, see <https://www.gnu.org/licenses/>.
  */
-
-* {
-    box-sizing: border-box;
+@font-face {
+    font-family: fira;
+    src: url(font/fira.ttf);
 }
 
-html {
+@font-face {
+    font-family: noto;
+    src: url(font/notosans.otf);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
     background: black;
     color: white;
 }
+
+body, button {
+    font-family: "fira", "noto", "WenQuanYi Micro Hei", "Microsoft YaHei", "sans-serif";
+}
+
 #GreaterMain {
     position: fixed;
     top: 50%;
