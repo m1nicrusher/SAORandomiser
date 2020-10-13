@@ -9,7 +9,7 @@ Usage
 -----
 Just pop index.html into any of modern browsers. Hit that happy little red button and wait for 8 senconds for the result.
 
-Configuration
+[WARNING] Configuration
 -----
 Note that this app is still in the earliest/alpha/test version so it is not configurable (but will be in the near future).
 
