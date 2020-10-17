@@ -1,5 +1,5 @@
 # SAORandomiser
-Help You Decide! --Lightweight Randomly Selection Tool  
+Help You Decide! --Lightweight Random Selection Tool  
 
 Description
 -----
